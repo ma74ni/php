@@ -1,0 +1,7 @@
+<?php
+print('
+    </main>
+    <script src="./public/js/main.js"></script>
+</body>
+</html>
+');
